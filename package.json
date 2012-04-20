@@ -1,0 +1,17 @@
+{
+  "author": "Enrico Zanardo <ezanardo@netnantes.net>",
+  "name": "Enrich",
+  "description": "A Web service that create Items.",
+  "version": "0.0.1",
+  "homepage": "http://www.netnantes.net",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ezanardo/Enrich.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
