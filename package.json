@@ -1,7 +1,7 @@
 {
   "author": "Enrico Zanardo <ezanardo@netnantes.net>",
   "name": "Enrich",
-  "description": "A Web service that create Items.",
+  "description": "A System that manage Computer Based Exams (CBE)",
   "version": "0.0.1",
   "homepage": "http://www.netnantes.net",
   "repository": {

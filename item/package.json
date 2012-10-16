@@ -4,7 +4,7 @@
   "description": "Management of items",
   "version": "0.0.0",
   "repository": {
-    "url": ""
+    "url": "git://github.com/ezanardo/Enrich.git"
   },
   "engines": {
     "node": "~v0.4.11"
